@@ -1,4 +1,4 @@
-@import "/css/reset.css";
+@import "css/reset.css";
 .main-container {
     background-color: white;
     padding: 20px;
@@ -50,7 +50,7 @@
     width: 100%;
     background-color: rgb(255, 208, 0);
     border: 2px solid rgb(0, 133, 0);
-    padding: 100px 0;
+    padding: 60px 0;
 }
 .bottom-text {
     text-align: center;
